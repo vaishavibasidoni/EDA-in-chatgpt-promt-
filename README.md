@@ -1,1 +1,1 @@
-# EDA-in-chatgpt-promt-
+Perform basic data exploration to understand the structure and content of the dataset.Summarize key statistics and visualizations for each relevant variable.Identify any patterns, trends, or outliers in the data that could be important for further analysis. project is mainly focusing on chatgpt prompt with user aspects like if sentence is wrong it gives accurate answer if sentence is correct it gives correct results 
